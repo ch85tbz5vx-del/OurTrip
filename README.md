@@ -17,4 +17,4 @@ OurTrip은 여행 일정, 예산, 방문 장소를 한 번에 관리할 수 있�
 - Platform: Web
 
 ## 프로그램 확인 링크
-https://github.com/본인아이디/OurTrip
+https://github.com/ch85tbz5vx-del/OurTrip/blob/main/README.md
